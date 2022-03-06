@@ -1,1 +1,1 @@
-[news!](https://jyldyzbek1.github.io/My-Portfolio/index.html)
+[News](https://nurgulchik.github.io/news/news-site/index.html)
