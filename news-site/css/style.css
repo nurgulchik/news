@@ -1,0 +1,29 @@
+h5.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 50%;
+    text-align: center;
+    border: none;
+    outline: none;
+    transition: 0.4s;
+    margin-left: 25%;
+  }
+
+
+h5.accordion.active,
+h5.accordion:hover{
+  background-color: #ddd;
+}
+
+.panel {
+  width: 50%;
+  background-color: white;
+  display: none;
+  margin-left: 25%;
+}
+
+.panel.show {
+  display: block;
+}
